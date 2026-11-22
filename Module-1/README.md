@@ -1,3 +1,5 @@
+## Please Read This Before Jump to Module-2
+
 # Module 01: Basics Commands & Git Trees
 In this module, you will practice the core Git daily workflow and learn why Git separates editing files, staging changes, and committing snapshots.
 
